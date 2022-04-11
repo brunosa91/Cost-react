@@ -1,5 +1,76 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "LOJA INDIE CLIENTE BRUNO",
+      "budget": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "projeto teste",
+      "budget": "30",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "teste 2 ",
+      "budget": "10",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "test4",
+      "budget": "30",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "teste",
+      "budget": "620",
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "test",
+      "budget": "30",
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "test25",
+      "budget": "50",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "test26",
+      "budget": "50",
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "asfafds",
+      "budget": "50",
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "test",
+      "budget": "60",
+      "cost": 0,
+      "services": [],
+      "id": 10
+    }
+  ],
   "categories": [
     {
       "id": 1,
