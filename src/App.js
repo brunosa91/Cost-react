@@ -20,7 +20,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/company" element={<Company />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/project" element={<Project />} />
+          <Route path="/projects" element={<Project />} />
 
           <Route path="/newproject" element={<NewProject />} />
         </Switch>
